@@ -1,21 +1,21 @@
 # se-day-2-git-and-github
-## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-Version control is a system that helps manage changes to files and code over time, it is crucial for collaboration and maintaining software developments. Below are fundamental concepts.
+## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help maintain project integrity?
+Version control is a system that helps manage changes to files and code over time, it is crucial for collaboration and maintaining software development. Below are fundamental concepts.
 Git int - This command creates a new Git repository in the current directory.
-Git add . - This adds all files or stages all changes in the current directory
-Git commit -This keeps a record of every change allowing you to track progress and commits your changes to Github repository.
-Git push - this pushed changes to Github
-Github is a popular tool for managing versions of code  because it offers powerful features that streamline collaboration and project management.
+Git add . - This adds all files or stages of all changes in the current directory
+Git commit -This keeps a record of every change allowing you to track progress and commits your changes to GitHub repository.
+Git push - this pushed changes to GitHub
+GitHub is a popular tool for managing versions of code  because it offers powerful features that streamline collaboration and project management.
 Version control helps maintain project integrity by providing a structured way to manage and track changes to the codebase. In short it tracks all changes, enables collaboration, allow easy rollbacks ensuring accountability and supporting automated testing. In the end this structured approach prevents errors, minimizes conflicts and safeguards the project's stability and quality.
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-1. Create a Repo: Log in to Github, click "New" under repositories, name your repo and choose visibility (public/private).
+## Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
+1. Create a Repo: Log in to Github, click "New" under repositories, name your repo, and choose visibility (public/private).
 2. Intialize: Optionally add a README, .gitignore, or License.
 3. Clone/Pull Repo: Use git clone to work locally or pull if starting with existing files.
-4.Push code(Add/Commit code): Copy the repo URL, use git int, git add. , git commit, and git push in your local project to upload code.
+4. Push code(Add/Commit code): Copy the repo URL, use git int, git add. , git commit, and git push in your local project to upload code.
 
 The important decisions made are:
 1. Visibility- Public or private access to the repository.
-2. Branching strategy: Decide on using feature branches, main branches, etc.
+2. Branching strategy: Decide on the use of feature branches, main branches, etc.
 3. License: Determine the licensing terms if sharing code publicly.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
